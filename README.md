@@ -11,14 +11,19 @@
 <p align="center"> 
   <samp>
 「 Sou um desenvolvedor full stack iniciante de <b>São Paulo</b> 」
-    <br>
-    <br>
   </samp>
 </p>
 
+<p align="center"> 
+  <samp>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/" target="_blank">LinkedIn</a>
+
+  </samp>
+</p>
 
 <p align="left">
   <samp>「 Tenho facilidade para me adaptar a novos desafios e busco constantemente expandir meus conhecimentos. Sou motivado a aplicar na prática o que aprendo, contribuir com soluções reais e crescer profissionalmente em um ambiente colaborativo e inovador. 」
+          <br>
   </samp>
 </p>
 
@@ -38,7 +43,7 @@
     <br>
     🚀 Busco oportunidades de estágio para colocar em prática meus conhecimentos, contribuir com projetos reais e crescer junto com a equipe.
     <br>
-    📫 Vamos nos conectar no <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/" target="_blank">LinkedIn</a>
+    📄 Conheça as minhas <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/" target="_blank">experiências</a>
      <br>
   </samp>
 </p>
