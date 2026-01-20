@@ -43,7 +43,7 @@
     <br>
     🚀 Busco oportunidades de estágio para colocar em prática meus conhecimentos, contribuir com projetos reais e crescer junto com a equipe.
     <br>
-    📄 Conheça as minhas <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/" target="_blank">experiências</a>
+    📄 Conheça sobre as minhas <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/" target="_blank">experiências</a> anteriores
      <br>
   </samp>
 </p>
