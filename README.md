@@ -1,85 +1,91 @@
-<h1 align="center">👋 Oi, João Vitor aqui!! </h1>
+<h1 align="center">👋 Olá,  eu sou o João! </h1>
 
-<p align="center">
-🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas (3º semestre)</strong><br>
-💻 Desenvolvedor de Software em formação | 📊 Interesse em Análise de Dados<br>
-🌎 Inglês Avançado (B2 – TOEIC)
+![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+**Estudante de ADS, curioso por tecnologia e movido pelo aprendizado contínuo. Tenho facilidade para me adaptar a novos desafios e busco constantemente expandir meus conhecimentos. Sou motivado a aplicar na prática o que aprendo, contribuir com soluções reais e crescer profissionalmente em um ambiente colaborativo e inovador.**
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Sobre mim**
+
+👨‍💻 Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos.
+
+🌱 Sempre curioso e motivado a aprender, cada dia é uma chance de descobrir algo novo, seja uma linguagem, ferramenta ou desafio.   
+
+🚀 Busco oportunidades de estágio para colocar em prática meus conhecimentos, contribuir com projetos reais e crescer junto com a equipe.
+
+📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/) :)
+
+
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Linguagens e Ferramentas**
+
+<p align="left"> 
+
+<!Linguagens>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+</a>
+
+<!Web>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/>
+</a>
+
+<!Framework>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+</a>
+
+<!Ferramentas>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</a>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
+</a>
+
+<!Dados / Sistemas>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/>
+</a>
+<a href="https://www.sap.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP" width="40" height="40"/>
+</a>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rdbvjoao&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+
+
 </p>
 
----
-
-## 🚀 Sobre mim
-Sou formado em **Técnico em Administração** e atualmente curso **Análise e Desenvolvimento de Sistemas**, explorando oportunidades na área de **Tecnologia da Informação**, com foco em **desenvolvimento de software**, **análise de dados** e áreas correlatas.
-
-Possuo experiência sólida em ambientes administrativos, com atuação em:
-- Contato com clientes e fornecedores  
-- Resolução de problemas estratégicos  
-- Elaboração de relatórios  
-- Análise de indicadores de desempenho (KPIs) 
-
-Essa vivência me proporciona uma visão analítica e orientada a resultados, que aplico também no desenvolvimento de software.
-
----
-
-## 🧠 Habilidades Técnicas
-
-### 💻 Linguagens de Programação
-- C# (.NET)
-- Java
-- C
-- SQL
-- VBA
-- HTML & CSS
-
-### 🧩 Desenvolvimento de Software
-- Projetos acadêmicos com **C# e .NET**
-- Lógica de programação
-- Programação Orientada a Objetos (POO)
-
-### 📊 Dados & Ferramentas
-- Excel
-- Power BI
-- SAP
-- Salesforce
-
-### 🛠️ Ferramentas
-- Git & GitHub
-- Visual Studio / VS Code
-
----
-
-## 📚 Atualmente aprendendo
-- Estrutura de Dados
-- Desenvolvimento Backend
-- Banco de Dados Relacionais
-- Boas práticas de desenvolvimento
-- Análise de dados aplicada a negócios
-
----
-
-## 📂 Projetos
-🔹 **[Nome do Projeto]**  
-📌 Projeto acadêmico desenvolvido em C# (.NET) com foco em lógica de negócio e organização de código.
-
-🔹 **[Nome do Projeto]**  
-📌 Aplicação voltada para prática de programação e manipulação de dados.
-
-*(Mais projetos em desenvolvimento 🚧)*
-
----
-
-## 🌍 Idiomas
-- 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: Avançado (B2 – TOEIC)
----
-
-## 📫 Contato
-📌 GitHub  
-📌 LinkedIn 
-
----
-
-⭐ Sempre aberto a aprender, colaborar e enfrentar novos desafios!
-
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos.
 
