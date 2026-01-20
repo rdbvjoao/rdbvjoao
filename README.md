@@ -1,22 +1,54 @@
-<h1 align="center">👋 Olá,  eu sou o João! </h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rdbvjoao&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
-![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-
-**Estudante de ADS, curioso por tecnologia e movido pelo aprendizado contínuo. Tenho facilidade para me adaptar a novos desafios e busco constantemente expandir meus conhecimentos. Sou motivado a aplicar na prática o que aprendo, contribuir com soluções reais e crescer profissionalmente em um ambiente colaborativo e inovador.**
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Sobre mim**
-
-👨‍💻 Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos.
-
-🌱 Sempre curioso e motivado a aprender, cada dia é uma chance de descobrir algo novo, seja uma linguagem, ferramenta ou desafio.   
-
-🚀 Busco oportunidades de estágio para colocar em prática meus conhecimentos, contribuir com projetos reais e crescer junto com a equipe.
-
-📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/) :)
+<h3 align="center">
+        <samp>&gt; Olá! Eu sou o 
+                <b><a target="_blank" href="https://alsiam.com">João :)</a></b>
+        </samp>
+  
+</h3>
 
 
+<p align="center"> 
+  <samp>
+「 Sou um desenvolvedor full stack iniciante de <b>São Paulo</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Linguagens e Ferramentas**
+
+<p align="left">
+  <samp>「 Tenho facilidade para me adaptar a novos desafios e busco constantemente expandir meus conhecimentos. Sou motivado a aplicar na prática o que aprendo, contribuir com soluções reais e crescer profissionalmente em um ambiente colaborativo e inovador. 」
+  </samp>
+</p>
+
+
+<h2 align="left">
+  <samp>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+    Sobre mim
+  </samp>
+</h2>
+
+<p align="left">
+  <samp> 
+    👨‍💻 Estudante do 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Guarulhos 
+    <br>
+    🌱 Sempre curioso e motivado a aprender, cada dia é uma chance de descobrir algo , seja uma linguagem, uma ferramenta ou até mesmo um desafio.
+    <br>
+    🚀 Busco oportunidades de estágio para colocar em prática meus conhecimentos, contribuir com projetos reais e crescer junto com a equipe.
+    <br>
+    📫 Vamos nos conectar no <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/" target="_blank">LinkedIn</a>
+  </samp>
+</p>
+
+
+<h2 align="left">
+  <samp>
+    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> 
+    Linguagens e Ferramentas
+  </samp>
+</h2>
 
 <p align="left"> 
 
@@ -78,12 +110,10 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/>
 </a>
-<a href="https://www.sap.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP" width="40" height="40"/>
+
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+ <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="MS Excel" title="MS Excel" width="40" height="40"/>
 </a>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rdbvjoao&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 
 </p>
