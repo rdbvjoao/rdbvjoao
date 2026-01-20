@@ -36,14 +36,15 @@
 
 <p align="left">
   <samp> 
-    👨‍💻 Estudante do 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Guarulhos 
+    👨🏻‍🎓 Estudante do 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Guarulhos 
     <br>
     🌱 Sempre curioso e motivado a aprender, cada dia é uma chance de descobrir algo , seja uma linguagem, uma ferramenta ou até mesmo um desafio.
     <br>
     🚀 Busco oportunidades de estágio para colocar em prática meus conhecimentos, contribuir com projetos reais e crescer junto com a equipe.
     <br>
-    📄 Conheça sobre as minhas <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/" target="_blank">experiências</a> anteriores
+    📄 Conheça mais sobre as minhas <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/" target="_blank">experiências</a> anteriores!
      <br>
+    🧑🏻‍💻 Veja alguns dos meus <a href="https://github.com/rdbvjoao/Projetos" target="_blank">projetos desenvolvidos</a>.
   </samp>
 </p>
 
