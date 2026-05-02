@@ -38,7 +38,7 @@
   <samp> 
     👨🏻‍🎓 Estudante do 4º semestre de <b>Análise e Desenvolvimento de Sistemas</b> na Fatec Guarulhos 
     <br>
-        🧡 Estagiário de Experiência e Inteligência de Conteúdos e Dados no Itaú Unibanco
+        🧡 Estagiário de Experiência e Inteligência de Conteúdos no Itaú Unibanco
 <br>         
     🌱 Sempre curioso e motivado a aprender, cada dia é uma chance de descobrir algo , seja uma linguagem, uma ferramenta ou até mesmo um desafio.
     <br>
