@@ -42,7 +42,7 @@
 <br>         
     🌱 Sempre curioso e motivado a aprender, cada dia é uma chance de descobrir algo , seja uma linguagem, uma ferramenta ou até mesmo um desafio.
     <br>
-    🚀 Busco oportunidades de estágio para colocar em prática meus conhecimentos, contribuir com projetos reais e crescer junto com a equipe.
+    🚀 Busco oportunidades de emprego para colocar em prática meus conhecimentos, contribuir com projetos reais e crescer junto com a equipe.
     <br>
     📄 Conheça mais sobre as minhas <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-borges-dos-reis-868315199/" target="_blank">experiências</a> anteriores!
      <br>
